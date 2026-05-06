@@ -1557,8 +1557,8 @@
     "m_ObjectId": "13608018582a4a2bbe807ec0366da3d5",
     "m_Title": "Dark Foam Voronoi Sample",
     "m_Position": {
-        "x": -2402.0,
-        "y": -894.9999389648438
+        "x": -2402.000244140625,
+        "y": -895.0000610351563
     }
 }
 
@@ -3653,8 +3653,8 @@
     "m_ObjectId": "685e770b523d4914916b5eed6fa13cfd",
     "m_Title": "Combining Texture and intersection foam",
     "m_Position": {
-        "x": -1682.0,
-        "y": -565.9999389648438
+        "x": -1682.0001220703125,
+        "y": -566.0
     }
 }
 
@@ -4355,7 +4355,7 @@
     "m_Title": "Water Depth Color",
     "m_Position": {
         "x": -2662.0,
-        "y": 189.99993896484376
+        "y": 189.9998779296875
     }
 }
 
@@ -5317,10 +5317,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -608.9999389648438,
-            "y": -358.9999694824219,
+            "x": -524.0,
+            "y": -366.0000305175781,
             "width": 116.0,
-            "height": 33.999969482421878
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -5949,7 +5949,7 @@
     "m_Title": "Main Foram Voronoi Smaple",
     "m_Position": {
         "x": -3005.0,
-        "y": -401.0000305175781
+        "y": -401.0
     }
 }
 
@@ -6152,7 +6152,7 @@
     "m_ObjectId": "c8b80f3912434db0a3e82e2afeb52da0",
     "m_Title": "Distort UVs Based On Flow Map",
     "m_Position": {
-        "x": -3765.0,
+        "x": -3765.000244140625,
         "y": 188.0
     }
 }
@@ -6164,7 +6164,7 @@
     "m_Title": "Vertex burbbing ",
     "m_Position": {
         "x": -2485.0,
-        "y": -1588.9998779296875
+        "y": -1589.0001220703125
     }
 }
 
