@@ -1071,7 +1071,7 @@
     "m_Title": "Main Texture Sample",
     "m_Position": {
         "x": -747.0,
-        "y": 344.0001220703125
+        "y": 344.0
     }
 }
 
@@ -2664,7 +2664,7 @@
     "m_Title": "Calculate Bounding box",
     "m_Position": {
         "x": -745.0,
-        "y": -386.99993896484377
+        "y": -387.0
     }
 }
 
@@ -2749,7 +2749,7 @@
     "m_Title": "Calaulate world-space position",
     "m_Position": {
         "x": -2068.0,
-        "y": -220.99996948242188
+        "y": -221.0
     }
 }
 
